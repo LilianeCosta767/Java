@@ -22,6 +22,16 @@
 /aula10Java/test/
 /aula10Java/build
 /aula10Java/manifest.mf
-/aula11Java/nbproject/private/
+
+/aula11Java/nbproject/
 /aula11Java/build/
+/aula11Java/test
+/aula11Java/build
+/aula11Java/manifest.mf
+
+/ExercicioArvorePessoa/nbproject
+/ExercicioArvorePessoa/test
+/ExercicioArvorePessoa/build
+/ExercicioArvorePessoa/manifest.mf
+
 /ExercicioArvorePessoa/nbproject/private/
