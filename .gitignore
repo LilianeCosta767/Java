@@ -34,8 +34,14 @@
 /ExercicioArvorePessoa/build
 /ExercicioArvorePessoa/manifest.mf
 
-/ExercicioArvorePessoa/nbproject/private/
-/aula12Java/nbproject/private/
+/aula12Java/nbproject/
 /aula12Java/build/
-/aula13Java/nbproject/private/
+/aula12Java/test
+/aula12Java/build
+/aula12Java/manifest.mf
+
+/aula13Java/nbproject/
 /aula13Java/build/
+/aula13Java/test
+/aula13Java/build
+/aula13Java/manifest.mf
