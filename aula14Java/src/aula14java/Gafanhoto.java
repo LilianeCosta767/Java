@@ -17,10 +17,10 @@ public class Gafanhoto extends Pessoa{
         this.login = login;
     }
     
-    public int setTotAssistido() {
+    public int getTotAssistido() {
         return totAssistido;
     }
-    public void getTotAssistido(int totAssistido) {
+    public void setTotAssistido(int totAssistido) {
         this.totAssistido = totAssistido;
     }
     

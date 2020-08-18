@@ -28,7 +28,10 @@ public class Video implements AcoesVideo{
         return avaliacao;
     }
     public void setAvaliacao(int avaliacao) {
-        this.avaliacao = avaliacao;
+        // calculando a media de visualizao de um video
+        int nova;
+        nova = (int) ((this.avaliacao + avaliacao) / views);
+        this.avaliacao = nova;
     }
     
     public int getViews() {
